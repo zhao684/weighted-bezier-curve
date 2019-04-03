@@ -1,0 +1,38 @@
+﻿Build started 9/1/2017 9:57:09 PM.
+     1>Project "E:\scratch\cs590cgd\glui-master\msvc\example5.vcxproj" on node 8 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (DebugDLL\) contains files shared from another project (example1.vcxproj, example2.vcxproj, example3.vcxproj, example4.vcxproj, _gluidll library.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         E:\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I../include /ZI /nologo /W3 /WX- /Od /Oy- /D GLUI_NO_LIB_PRAGMA /D GLUIDLL /D _MBCS /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"DebugDLL\\" /Fd"DebugDLL\example5" /Gd /TP /analyze- /errorReport:prompt ..\example\example5.cpp
+         example5.cpp
+     1>e:\scratch\cs590cgd\glui-master\include\gl\glui.h(410): warning C4251: 'GLUI_Bitmap::pixels': class 'std::vector<uint8_t,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'GLUI_Bitmap'
+                 with
+                 [
+                     _Ty=uint8_t
+                 ]
+     1>e:\scratch\cs590cgd\glui-master\include\gl\glui.h(679): warning C4251: 'GLUI_Main::window_name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'GLUI_Main'
+     1>e:\scratch\cs590cgd\glui-master\include\gl\glui.h(772): warning C4251: 'GLUI_Control::text': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'GLUI_Control'
+     1>e:\scratch\cs590cgd\glui-master\include\gl\glui.h(781): warning C4251: 'GLUI_Control::last_live_text': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'GLUI_Control'
+     1>e:\scratch\cs590cgd\glui-master\include\gl\glui.h(789): warning C4251: 'GLUI_Control::name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'GLUI_Control'
+     1>e:\scratch\cs590cgd\glui-master\include\gl\glui.h(851): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\scratch\cs590cgd\glui-master\include\gl\glui.h(1088): warning C4251: 'GLUI_FileBrowser::current_dir': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'GLUI_FileBrowser'
+     1>e:\scratch\cs590cgd\glui-master\include\gl\glui.h(1117): warning C4251: 'GLUI_FileBrowser::file': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'GLUI_FileBrowser'
+     1>e:\scratch\cs590cgd\glui-master\include\gl\glui.h(1213): warning C4251: 'GLUI_Tree::level_name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'GLUI_Tree'
+     1>e:\scratch\cs590cgd\glui-master\include\gl\glui.h(1512): warning C4251: 'GLUI_EditText::orig_text': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'GLUI_EditText'
+     1>e:\microsoft visual studio 14.0\vc\include\vector(679): warning C4251: 'std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>::_Mypair': class 'std::_Compressed_pair<std::_Wrap_alloc<std::allocator<GLUI_String>>,std::_Vector_val<std::_Simple_types<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>>,true>' needs to have dll-interface to be used by clients of class 'std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>'
+                 with
+                 [
+                     _Ty=GLUI_String,
+                     _Alloc=std::allocator<GLUI_String>
+                 ]
+         e:\scratch\cs590cgd\glui-master\include\gl\glui.h(1627): note: see reference to class template instantiation 'std::vector<GLUI_String,std::allocator<GLUI_String>>' being compiled
+     1>e:\scratch\cs590cgd\glui-master\include\gl\glui.h(1900): warning C4251: 'GLUI_TextBox::orig_text': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'GLUI_TextBox'
+     1>e:\scratch\cs590cgd\glui-master\include\gl\glui.h(1996): warning C4251: 'GLUI_List_Item::text': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'GLUI_List_Item'
+     1>e:\scratch\cs590cgd\glui-master\include\gl\glui.h(2023): warning C4251: 'GLUI_List::orig_text': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'GLUI_List'
+     1>e:\scratch\cs590cgd\glui-master\include\gl\glui.h(2229): warning C4251: 'GLUI_Listbox_Item::text': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'GLUI_Listbox_Item'
+     1>e:\scratch\cs590cgd\glui-master\include\gl\glui.h(2236): warning C4251: 'GLUI_Listbox::curr_text': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'GLUI_Listbox'
+     1>e:\scratch\cs590cgd\glui-master\example\example5.cpp(20): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+     1>Done Building Project "E:\scratch\cs590cgd\glui-master\msvc\example5.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.17

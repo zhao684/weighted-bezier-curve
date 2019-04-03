@@ -1,0 +1,79 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Zhao_Tianyu_Assignment_4.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Zhao_Tianyu_Assignment_5.cpp
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(25): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(26): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(28): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(29): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(33): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(34): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(36): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(37): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(71): warning C4305: '=': truncation from 'double' to 'float'
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(72): warning C4305: '=': truncation from 'double' to 'float'
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(74): warning C4305: '=': truncation from 'double' to 'float'
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(75): warning C4305: '=': truncation from 'double' to 'float'
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(79): warning C4305: '=': truncation from 'double' to 'float'
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(80): warning C4305: '=': truncation from 'double' to 'float'
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(82): warning C4305: '=': truncation from 'double' to 'float'
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(83): warning C4305: '=': truncation from 'double' to 'float'
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(103): warning C4018: '<': signed/unsigned mismatch
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(146): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(149): warning C4018: '<': signed/unsigned mismatch
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(150): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(151): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(152): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(165): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(168): warning C4018: '<': signed/unsigned mismatch
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(169): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(170): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(171): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(179): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(182): warning C4018: '<': signed/unsigned mismatch
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(183): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(184): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(185): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(204): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(207): warning C4018: '<': signed/unsigned mismatch
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(208): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(209): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(210): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(223): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(226): warning C4018: '<': signed/unsigned mismatch
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(227): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(228): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(229): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(237): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(240): warning C4018: '<': signed/unsigned mismatch
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(241): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(242): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(243): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(260): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(263): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(266): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(267): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(268): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(272): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(273): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(274): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(275): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(301): warning C4018: '<': signed/unsigned mismatch
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(313): warning C4018: '<': signed/unsigned mismatch
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(399): warning C4018: '<': signed/unsigned mismatch
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(469): warning C4018: '<': signed/unsigned mismatch
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(487): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(500): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(517): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(520): warning C4018: '<=': signed/unsigned mismatch
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(525): warning C4018: '<=': signed/unsigned mismatch
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(538): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(539): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(590): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(591): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(660): warning C4018: '<': signed/unsigned mismatch
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(685): warning C4018: '<': signed/unsigned mismatch
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(688): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(689): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(706): warning C4018: '<': signed/unsigned mismatch
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(709): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_5\zhao_tianyu_assignment_5.cpp(710): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Zhao_Tianyu_Assignment_5.vcxproj -> D:\homeworks\Purdue\18fall\CS334\Zhao_Tianyu_Assignment_5\Debug\Zhao_Tianyu_Assignment_5.exe
